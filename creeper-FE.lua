@@ -1,6 +1,4 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
+-- haha
 game.Players.LocalPlayer.Character.Head.face:Remove()
 plr = game.Players.LocalPlayer
 char=game.Players.LocalPlayer.Character
